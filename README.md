@@ -1,0 +1,2 @@
+# casinogameinc-
+Beginner friendly project
